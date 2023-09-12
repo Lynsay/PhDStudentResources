@@ -17,16 +17,16 @@ This GitHub repository is designed to support PhD students in computing-related 
 
 ## 📫 Mailing Lists
 Signed up for some of these mailing lists? Keep an eye on your Junk folder.
-| Name                               | Description                                                           | Sign-up Link                                                        |
-|------------------------------------|-----------------------------------------------------------------------|---------------------------------------------------------------------|
-| sicsa-ai@sicsa.ac.uk               | SICSA's AI mailing list.                                              | http://lists.inf.ed.ac.uk/mailman/listinfo/sicsa-ai                 |
-| sicsa-hci@sicsa.ac.uk              | SICSA's HCI mailing list.                                             | http://lists.inf.ed.ac.uk/mailman/listinfo/Sicsa-hci                |
-| sicsa-cyber@sicsa.ac.uk            | SICSA's cybersecurity mailing list.                                   | http://lists.inf.ed.ac.uk/mailman/listinfo/sicsa-cyber              |
-| sicsa-data-science@sicsa.ac.uk     | SICSA's data science mailing list.                                    | http://lists.inf.ed.ac.uk/mailman/listinfo/sicsa-data-science       |
-| CHI-RESOURCES@LISTSERV.ACM.ORG     | ACM SIGCHI Resources (Mailing List)                                   | https://listserv.acm.org/SCRIPTS/WA-ACMLPX.CGI?A0=CHI-RESOURCES     |
-| <br/>CHI-JOBS@LISTSERV.ACM.ORG     | ACM SIGCHI Job Postings in HCI.                                       | https://listserv.acm.org/SCRIPTS/WA-ACMLPX.CGI?A0=CHI-JOBS          |
-| CHI-ANNOUNCEMENTS@LISTSERV.ACM.ORG | ACM's HCI mailing list.                                               | https://listserv.acm.org/SCRIPTS/WA-ACMLPX.CGI?A0=CHI-ANNOUNCEMENTS |
-| BCS-HCI@JISCMAIL.AC.UK             | British HCI mailing list.                                             | https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=bcs-hci              |
-| JISC Mail                          | Email discussion lists for the UK Education and Research communities. | https://www.jiscmail.ac.uk/                                         |
+| Name               | Description                                                           | Sign-up Link                                                        |
+|--------------------|-----------------------------------------------------------------------|---------------------------------------------------------------------|
+| sicsa-ai           | SICSA's AI mailing list.                                              | http://lists.inf.ed.ac.uk/mailman/listinfo/sicsa-ai                 |
+| sicsa-hci          | SICSA's HCI mailing list.                                             | http://lists.inf.ed.ac.uk/mailman/listinfo/Sicsa-hci                |
+| sicsa-cyber        | SICSA's cybersecurity mailing list.                                   | http://lists.inf.ed.ac.uk/mailman/listinfo/sicsa-cyber              |
+| sicsa-data-science | SICSA's data science mailing list.                                    | http://lists.inf.ed.ac.uk/mailman/listinfo/sicsa-data-science       |
+| CHI-RESOURCES      | ACM SIGCHI Resources (Mailing List)                                   | https://listserv.acm.org/SCRIPTS/WA-ACMLPX.CGI?A0=CHI-RESOURCES     |
+| CHI-JOBS           | ACM SIGCHI Job Postings in HCI.                                       | https://listserv.acm.org/SCRIPTS/WA-ACMLPX.CGI?A0=CHI-JOBS          |
+| CHI-ANNOUNCEMENTS  | ACM's HCI mailing list.                                               | https://listserv.acm.org/SCRIPTS/WA-ACMLPX.CGI?A0=CHI-ANNOUNCEMENTS |
+| BCS-HCI            | British HCI mailing list.                                             | https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=bcs-hci              |
+| JISC Mail          | Email discussion lists for the UK Education and Research communities. | https://www.jiscmail.ac.uk/                                         |
 
 © Dr Lynsay Shepherd, 2022 - present.
