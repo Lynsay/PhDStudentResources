@@ -14,7 +14,7 @@ This GitHub repository is designed to support PhD students in computing-related 
 | Chartered Institute of Information Security (CIISec)                  | Helps individuals and organisations develop capability and competency in cyber security.                                                             | https://www.ciisec.org/                    |
 | Scottish Institute for Policing Research (SIPR)                       | SIPR is a strategic collaboration between 15 of Scotland's universities, Police Scotland and The Scottish Police Authority.                          | https://www.sipr.ac.uk/                    |
 
-
+&nbsp;&nbsp;
 ## 📫 Mailing Lists
 Signed up for some of these mailing lists? Keep an eye on your Junk folder.
 | Name               | Description                                                           | Sign-up Link                                                        |
