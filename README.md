@@ -72,7 +72,7 @@ Signed up for some of these mailing lists? Keep an eye on your Junk folder.
 | CORE journal rankings         | Discontinued as of 2022. Might be useful in terms of historical information.                                    | Publication Rankings | http://portal.core.edu.au/jnl-ranks/                      |
 | Bealls List                   | List of potentially predatory venues (use with caution - it's subjective).                                                         | Publication Rankings | https://beallslist.net/                                   |
 | Connected Papers              | Tool that helps researchers explore and visualise academic papers related to a specific topic or research paper. | Publications         | https://www.connectedpapers.com/                          |
-| Find Papers                   | Academic paper search engine. Developed by Abertay University PhD student Marc Kydd.                             | Publications         | http://findpapers.atthis.link/                            |
+| Find Papers                   | Academic paper search engine. Developed by Abertay University PhD student Marc Kydd https://atthis.link/.                             | Publications         | http://findpapers.atthis.link/                            |
 | Wayback Machine               | Can't find a site because of a broken link? Put it into the Wayback Machine - it might have indexed an old copy. | General              | https://archive.org/web/                                  |
 
 &nbsp;&nbsp;
