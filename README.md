@@ -77,5 +77,22 @@ Signed up for some of these mailing lists? Keep an eye on your Junk folder.
 
 &nbsp;&nbsp;
 ### 💾 Software and Tools
+| Name                          | Description                                                                                                          | Category           | Link                                                                          |
+|-------------------------------|----------------------------------------------------------------------------------------------------------------------|--------------------|-------------------------------------------------------------------------------|
+| NVivo                         | Qualitative data analysis software.                                                                                  | Data analysis      | https://lumivero.com/resources/support/getting-started-with-nvivo/            |
+| draw.io                       | Graph drawing software.                                                                                              | Diagramming        | https://app.diagrams.net/                                                     |
+| DownThemAll!                  | Browser extensionf or downloading multiple documents from a page at once.                                            | General            | https://www.downthemall.net/                                                  |
+| Noises Online                 | Working in a noisy environment and need to focus? White noise may help.                                              | General            | https://noises.online/                                                        |
+| GitHub Student Developer Pack | Free stuff! Software and tools for your studies.                                                                     | General software   | https://education.github.com/pack                                             |
+| FreeMind                      | Open-source mind mapping software used for creating visual representations of ideas, concepts, and information.      | Mind mapping       | https://freemind.sourceforge.io/wiki/index.php/Main_Page                      |
+| Notion                        | Productivity and collaboration platform for creating, organizing, and sharing documents, databases, and tasks.       | Note-taking        | https://www.notion.so/                                                        |
+| Evernote                      | Note-taking and organisation app that allows users to capture, store, and organize various types of information.     | Note-taking        | https://evernote.com/                                                         |
+| Microsoft OneNote             | Digital note-taking application for capturing, organizing, and sharing information in a multi-tabbed notebook format | Note-taking        | https://www.microsoft.com/en-gb/microsoft-365/onenote/digital-note-taking-app |
+| Trello                        | Web-based, kanban-style, list-making application.                                                                    | Project management | https://trello.com/                                                           |
+| Zotero                        | Free and open-source reference management software.                                                                  | Referencing        | https://www.zotero.org/                                                       |
+| Mendeley                      | Reference management software and academic social network.                                                           | Referencing        | https://www.mendeley.com/                                                     |
+| RefWorks                      | Web-based reference management tool to organize, store, and manage bibliographic citations and references.           | Referencing        | https://refworks.proquest.com/                                                |
+| Cite This For Me              | Tool for formatting citations.                                                                                       | Referencing        | https://www.citethisforme.com/                                                |
+| Pomodoro                      | Time management method that involves breaking work into focused intervals.                                           | Time management    | https://pomofocus.io/                                                         |
 
 © Dr Lynsay Shepherd, 2022 - present.
