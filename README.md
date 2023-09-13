@@ -61,6 +61,19 @@ Signed up for some of these mailing lists? Keep an eye on your Junk folder.
 
 &nbsp;&nbsp;
 ### 📰 Finding Papers and Venues
+| Name                          | Description                                                                                                     | Category             | Link                                                      |
+|-------------------------------|-----------------------------------------------------------------------------------------------------------------|----------------------|-----------------------------------------------------------|
+| Wiki CFP                      | Website which collates calls for papers (not always comprehensive)                                              | Publications         | http://www.wikicfp.com/cfp/                               |
+| arXiv                         | Preprint server covering various aspects of computing. Not the best UI for searching!                           | Publications         | https://arxiv.org/                                        |
+| arxiv sanity                  | Nicer UI for navigating arXiv                                                                                   | Publications         | https://arxiv-sanity-lite.com/                            |
+| Research.com                  | Publication rankings for different fields                                                                       | Publication Rankings | https://research.com/conference-rankings/computer-science |
+| Prof Jianying Zhou - Rankings | Cyber Security Conferences Rankings                                                                             | Publication Rankings | http://jianying.space/conference-ranking.html             |
+| Prof Guofei Gu - Rankings     | Computer Security Conference Ranking and Statistics                                                             | Publication Rankings | https://people.engr.tamu.edu/guofei/sec_conf_stat.htm     |
+| CORE journal rankings         | Discontinued as of 2022. Might be useful in terms of historical information.                                    | Publication Rankings | http://portal.core.edu.au/jnl-ranks/                      |
+| Bealls List                   | List of potentially predatory venues (use with caution)                                                         | Publication Rankings | https://beallslist.net/                                   |
+| Connected Papers              | Tool that helps researchers explore and visualize academic papers related to a specific topic or research paper | Publications         | https://www.connectedpapers.com/                          |
+| Find Papers                   | Academic paper search engine. Developed by Abertay University PhD student Marc Kydd                             | Publications         | http://findpapers.atthis.link/                            |
+| Wayback Machine               | Can't find a site because of a broken link? Put it into the Wayback Machine - it might have indexed an old copy | General              | https://archive.org/web/                                  |
 
 &nbsp;&nbsp;
 ### 💾 Software and Tools
