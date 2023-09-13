@@ -3,7 +3,11 @@ This (work-in-progress) GitHub repository is designed to support PhD students in
 
 👩‍💻 Something missing from this repository? If so, drop me an email and I'll add it [lynsay.shepherd@abertay.ac.uk](mailto:lynsay.shepherd@abertay.ac.uk). Please note: I come from a cybersecurity and human-computer interaction background - some of the initial resources listed may lean towards these areas.
 
-## 🏢 Organisations & Memberships
+## 🔗 Contents
+- [Organisations and Memberships](#organisations-and-memberships)
+
+
+## 🏢 Organisations and Memberships
 | Name                                                                  | Description                                                                                                                                          | Link                                       |
 |-----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
 | Association for Computing Machinery (ACM)                             | US-based international learned society for computing.                                                                                                | https://www.acm.org/membership             |
