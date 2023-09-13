@@ -23,7 +23,7 @@ This (work-in-progress) GitHub repository is designed to support PhD students in
 | Scottish Institute for Policing Research (SIPR)                       | SIPR is a strategic collaboration between 15 of Scotland's universities, Police Scotland and The Scottish Police Authority.                          | https://www.sipr.ac.uk/                    |
 
 &nbsp;&nbsp;
-## 📫 Mailing Lists
+### 📫 Mailing Lists
 Signed up for some of these mailing lists? Keep an eye on your Junk folder.
 | Name               | Description                                                           | Sign-up Link                                                        |
 |--------------------|-----------------------------------------------------------------------|---------------------------------------------------------------------|
@@ -38,7 +38,7 @@ Signed up for some of these mailing lists? Keep an eye on your Junk folder.
 | JISC Mail          | Email discussion lists for the UK Education and Research communities. | https://www.jiscmail.ac.uk/                                         |
 
 &nbsp;&nbsp;
-## 📝 Academic Writing
+### 📝 Academic Writing
 | Name                                           | Description                                                                                                                                            | Category                 | Link                                                                   |
 |------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|------------------------------------------------------------------------|
 | University of Manchester - Academic Phrasebank | A collection of ready-made phrases and expressions that can be used in various sections of academic papers (or your thesis).                           | General academic writing | https://www.phrasebank.manchester.ac.uk/                               |
@@ -49,7 +49,7 @@ Signed up for some of these mailing lists? Keep an eye on your Junk folder.
 
 
 &nbsp;&nbsp;
-## 📈 Statistics
+### 📈 Statistics
 | Name                       | Description                                 | Category           | Link                                   |
 |----------------------------|---------------------------------------------|--------------------|----------------------------------------|
 | Discovering Statistics     | Andy Field's website - the 'Stats book guy' | General statistics | https://www.discoveringstatistics.com/ |
@@ -60,9 +60,9 @@ Signed up for some of these mailing lists? Keep an eye on your Junk folder.
 
 
 &nbsp;&nbsp;
-## 📰 Finding Papers and Venues
+### 📰 Finding Papers and Venues
 
 &nbsp;&nbsp;
-## 💾 Software and Tools
+### 💾 Software and Tools
 
 © Dr Lynsay Shepherd, 2022 - present.
