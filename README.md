@@ -5,11 +5,11 @@ This (work-in-progress) GitHub repository is designed to support PhD students in
 
 ## 🔗 Contents
 - 🏢 [Organisations and Memberships](#organisations-and-memberships)
-- 📫 [Mailing Lists](mailing-lists)
-- 📝 [Academic Writing](academic-writing)
-- 📈 [Statistics](statistics)
-- 📰 [Finding Papers and Venues](finding-papers-and-venues)
-- 💾 [Software and Tools](software-and-tools)
+- 📫 [Mailing Lists](#mailing-lists)
+- 📝 [Academic Writing](#academic-writing)
+- 📈 [Statistics](#statistics)
+- 📰 [Finding Papers and Venues](#finding-papers-and-venues)
+- 💾 [Software and Tools](#software-and-tools)
 
 ### 🏢 Organisations and Memberships
 | Name                                                                  | Description                                                                                                                                          | Link                                       |
