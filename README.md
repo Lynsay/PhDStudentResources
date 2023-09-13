@@ -1,7 +1,7 @@
 # 🎓 Resources for PhD Students in Computing 👾
 This (work-in-progress) GitHub repository is designed to support PhD students in computing-related field with a list of accessible resources. Here, you'll find details on useful organisations, mailing lists, conference and journal information, software and tools to support the research process, and tips for academic writing.
 
-👩‍💻 Something missing from this repository? If so, drop me an email and I'll add it [lynsay.shepherd@abertay.ac.uk](mailto:lynsay.shepherd@abertay.ac.uk). Please note: I come from a cybersecurity and human-computer interaction background - some of the initial resources listed may lean towards these areas.
+👩‍💻 Something missing from this repository? If so, drop me an email and I'll add it- [lynsay.shepherd@abertay.ac.uk](mailto:lynsay.shepherd@abertay.ac.uk). Please note: I come from a cybersecurity and human-computer interaction background - some of the initial resources listed may lean towards these areas.
 
 ## 🔗 Contents
 - 🏢 [Organisations and Memberships](#-organisations-and-memberships)
@@ -52,28 +52,28 @@ Signed up for some of these mailing lists? Keep an eye on your Junk folder.
 ### 📈 Statistics
 | Name                       | Description                                 | Category           | Link                                   |
 |----------------------------|---------------------------------------------|--------------------|----------------------------------------|
-| Discovering Statistics     | Andy Field's website - the 'Stats book guy' | General statistics | https://www.discoveringstatistics.com/ |
-| R for Data Science         | Online book and code examples               | R                  | https://r4ds.hadley.nz/                |
-| Learning Statistics with R | Online book and code examples               | R                  | https://learningstatisticswithr.com/   |
-| Zed Statistics             | Youtube channel covering statistics         | General statistics | https://www.youtube.com/@zedstatistics |
-| How2stats                  | Youtube channel covering statistics         | General statistics | https://www.youtube.com/@how2stats     |
+| Discovering Statistics     | Andy Field's website - the 'Stats book guy'. | General statistics | https://www.discoveringstatistics.com/ |
+| R for Data Science         | Online book and code examples.               | R                  | https://r4ds.hadley.nz/                |
+| Learning Statistics with R | Online book and code examples.               | R                  | https://learningstatisticswithr.com/   |
+| Zed Statistics             | Youtube channel covering statistics.         | General statistics | https://www.youtube.com/@zedstatistics |
+| How2stats                  | Youtube channel covering statistics.         | General statistics | https://www.youtube.com/@how2stats     |
 
 
 &nbsp;&nbsp;
 ### 📰 Finding Papers and Venues
 | Name                          | Description                                                                                                     | Category             | Link                                                      |
 |-------------------------------|-----------------------------------------------------------------------------------------------------------------|----------------------|-----------------------------------------------------------|
-| Wiki CFP                      | Website which collates calls for papers (not always comprehensive)                                              | Publications         | http://www.wikicfp.com/cfp/                               |
+| Wiki CFP                      | Website which collates calls for papers (not always comprehensive).                                              | Publications         | http://www.wikicfp.com/cfp/                               |
 | arXiv                         | Preprint server covering various aspects of computing. Not the best UI for searching!                           | Publications         | https://arxiv.org/                                        |
-| arxiv sanity                  | Nicer UI for navigating arXiv                                                                                   | Publications         | https://arxiv-sanity-lite.com/                            |
-| Research.com                  | Publication rankings for different fields                                                                       | Publication Rankings | https://research.com/conference-rankings/computer-science |
-| Prof Jianying Zhou - Rankings | Cyber Security Conferences Rankings                                                                             | Publication Rankings | http://jianying.space/conference-ranking.html             |
+| arxiv sanity                  | Nicer UI for navigating arXiv.                                                                                   | Publications         | https://arxiv-sanity-lite.com/                            |
+| Research.com                  | Publication rankings for different fields.                                                                       | Publication Rankings | https://research.com/conference-rankings/computer-science |
+| Prof Jianying Zhou - Rankings | Cyber Security Conferences Rankings.                                                                             | Publication Rankings | http://jianying.space/conference-ranking.html             |
 | Prof Guofei Gu - Rankings     | Computer Security Conference Ranking and Statistics                                                             | Publication Rankings | https://people.engr.tamu.edu/guofei/sec_conf_stat.htm     |
 | CORE journal rankings         | Discontinued as of 2022. Might be useful in terms of historical information.                                    | Publication Rankings | http://portal.core.edu.au/jnl-ranks/                      |
-| Bealls List                   | List of potentially predatory venues (use with caution)                                                         | Publication Rankings | https://beallslist.net/                                   |
-| Connected Papers              | Tool that helps researchers explore and visualize academic papers related to a specific topic or research paper | Publications         | https://www.connectedpapers.com/                          |
-| Find Papers                   | Academic paper search engine. Developed by Abertay University PhD student Marc Kydd                             | Publications         | http://findpapers.atthis.link/                            |
-| Wayback Machine               | Can't find a site because of a broken link? Put it into the Wayback Machine - it might have indexed an old copy | General              | https://archive.org/web/                                  |
+| Bealls List                   | List of potentially predatory venues (use with caution - it's subjective).                                                         | Publication Rankings | https://beallslist.net/                                   |
+| Connected Papers              | Tool that helps researchers explore and visualise academic papers related to a specific topic or research paper. | Publications         | https://www.connectedpapers.com/                          |
+| Find Papers                   | Academic paper search engine. Developed by Abertay University PhD student Marc Kydd.                             | Publications         | http://findpapers.atthis.link/                            |
+| Wayback Machine               | Can't find a site because of a broken link? Put it into the Wayback Machine - it might have indexed an old copy. | General              | https://archive.org/web/                                  |
 
 &nbsp;&nbsp;
 ### 💾 Software and Tools
@@ -81,11 +81,11 @@ Signed up for some of these mailing lists? Keep an eye on your Junk folder.
 |-------------------------------|----------------------------------------------------------------------------------------------------------------------|--------------------|-------------------------------------------------------------------------------|
 | NVivo                         | Qualitative data analysis software.                                                                                  | Data analysis      | https://lumivero.com/resources/support/getting-started-with-nvivo/            |
 | draw.io                       | Graph drawing software.                                                                                              | Diagramming        | https://app.diagrams.net/                                                     |
-| DownThemAll!                  | Browser extensionf or downloading multiple documents from a page at once.                                            | General            | https://www.downthemall.net/                                                  |
+| DownThemAll!                  | Browser extension for downloading multiple documents from a page at once.                                            | General            | https://www.downthemall.net/                                                  |
 | Noises Online                 | Working in a noisy environment and need to focus? White noise may help.                                              | General            | https://noises.online/                                                        |
 | GitHub Student Developer Pack | Free stuff! Software and tools for your studies.                                                                     | General software   | https://education.github.com/pack                                             |
 | FreeMind                      | Open-source mind mapping software used for creating visual representations of ideas, concepts, and information.      | Mind mapping       | https://freemind.sourceforge.io/wiki/index.php/Main_Page                      |
-| Notion                        | Productivity and collaboration platform for creating, organizing, and sharing documents, databases, and tasks.       | Note-taking        | https://www.notion.so/                                                        |
+| Notion                        | Productivity and collaboration platform for creating, organising, and sharing documents, databases, and tasks.       | Note-taking        | https://www.notion.so/                                                        |
 | Evernote                      | Note-taking and organisation app that allows users to capture, store, and organize various types of information.     | Note-taking        | https://evernote.com/                                                         |
 | Microsoft OneNote             | Digital note-taking application for capturing, organizing, and sharing information in a multi-tabbed notebook format | Note-taking        | https://www.microsoft.com/en-gb/microsoft-365/onenote/digital-note-taking-app |
 | Trello                        | Web-based, kanban-style, list-making application.                                                                    | Project management | https://trello.com/                                                           |
