@@ -1,5 +1,5 @@
 # 🎓 Resources for PhD Students in Computing 👾
-This GitHub repository is designed to support PhD students in computing-related field with a list of accessible resources. Here, you'll find details on useful organisations, mailing lists, conference and journal information, software and tools to support the research process, and tips for academic writing.
+This (work-in-progress) GitHub repository is designed to support PhD students in computing-related field with a list of accessible resources. Here, you'll find details on useful organisations, mailing lists, conference and journal information, software and tools to support the research process, and tips for academic writing.
 
 👩‍💻 Something missing from this repository? If so, drop me an email and I'll add it [lynsay.shepherd@abertay.ac.uk](mailto:lynsay.shepherd@abertay.ac.uk). Please note: I come from a cybersecurity and human-computer interaction background - some of the initial resources listed may lean towards these areas.
 
@@ -28,5 +28,33 @@ Signed up for some of these mailing lists? Keep an eye on your Junk folder.
 | CHI-ANNOUNCEMENTS  | ACM's HCI mailing list.                                               | https://listserv.acm.org/SCRIPTS/WA-ACMLPX.CGI?A0=CHI-ANNOUNCEMENTS |
 | BCS-HCI            | British HCI mailing list.                                             | https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=bcs-hci              |
 | JISC Mail          | Email discussion lists for the UK Education and Research communities. | https://www.jiscmail.ac.uk/                                         |
+
+&nbsp;&nbsp;
+## 📝 Academic Writing
+| Name                                           | Description                                                                                                                                            | Category                 | Link                                                                   |
+|------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|------------------------------------------------------------------------|
+| University of Manchester - Academic Phrasebank | A collection of ready-made phrases and expressions that can be used in various sections of academic papers (or your thesis).                           | General academic writing | https://www.phrasebank.manchester.ac.uk/                               |
+| Grammarly                                      | AI-powered writing assistant that helps improve your writing by providing real-time grammar, spelling, punctuation, and style suggestions as you type. | Writing tool             | https://www.grammarly.com/                                             |
+| Overleaf                                       | Online and collaborative LaTex editor.                                                                                                                 | Writing tool             | https://www.overleaf.com/                                              |
+| Hemingway                                      | A writing tool that focuses on improving the clarity and readability of your writing by highlighting complex sentences and suggesting simplifications. | Writing tool             | https://hemingwayapp.com/                                              |
+| Holland & Rees critiquing model                | A framework for critiquing quantitative and qualitative research articles.                                                                             | Critical analysis        | https://global.oup.com/uk/orc/nursing/holland/01student/chapters/ch07/ |
+
+
+&nbsp;&nbsp;
+## 📈 Statistics
+| Name                       | Description                                 | Category           | Link                                   |
+|----------------------------|---------------------------------------------|--------------------|----------------------------------------|
+| Discovering Statistics     | Andy Field's website - the 'Stats book guy' | General statistics | https://www.discoveringstatistics.com/ |
+| R for Data Science         | Online book and code examples               | R                  | https://r4ds.hadley.nz/                |
+| Learning Statistics with R | Online book and code examples               | R                  | https://learningstatisticswithr.com/   |
+| Zed Statistics             | Youtube channel covering statistics         | General statistics | https://www.youtube.com/@zedstatistics |
+| How2stats                  | Youtube channel covering statistics         | General statistics | https://www.youtube.com/@how2stats     |
+
+
+&nbsp;&nbsp;
+## 📰 Finding Papers and Conferences
+
+&nbsp;&nbsp;
+## 💾 Software and Tools
 
 © Dr Lynsay Shepherd, 2022 - present.
