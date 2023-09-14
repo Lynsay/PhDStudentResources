@@ -3,6 +3,8 @@ This (work-in-progress) GitHub repository is designed to support PhD students in
 
 👩‍💻 Something missing from this repository? If so, drop me an email and I'll add it- [lynsay.shepherd@abertay.ac.uk](mailto:lynsay.shepherd@abertay.ac.uk). Please note: I come from a cybersecurity and human-computer interaction background - some of the initial resources listed may lean towards these areas.
 
+🧐 If you are interested in doing an MbR or PhD under my supervision, please [get in touch](mailto:lynsay.shepherd@abertay.ac.uk).
+
 ## 🔗 Contents
 - 🏢 [Organisations and Memberships](#-organisations-and-memberships)
 - 📫 [Mailing Lists](#-mailing-lists)
