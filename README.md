@@ -48,6 +48,7 @@ Signed up for some of these mailing lists? Keep an eye on your Junk folder.
 | Overleaf                                       | Online and collaborative LaTex editor.                                                                                                                 | Writing tool             | https://www.overleaf.com/                                              |
 | Hemingway                                      | A writing tool that focuses on improving the clarity and readability of your writing by highlighting complex sentences and suggesting simplifications. | Writing tool             | https://hemingwayapp.com/                                              |
 | Holland & Rees critiquing model                | A framework for critiquing quantitative and qualitative research articles.                                                                             | Critical analysis        | https://global.oup.com/uk/orc/nursing/holland/01student/chapters/ch07/ |
+| CRediT (Contributor Roles Taxonomy) Generator                                     | A web resource which summarizes author contributions for your manuscripts. | Writing tool             | https://credit.metabolomics.fgu.cas.cz/                                              |
 
 
 &nbsp;&nbsp;
